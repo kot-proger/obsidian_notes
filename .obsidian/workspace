@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Дека лонгборда.md",
-            "mode": "source"
+            "file": "Test1.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -18,76 +19,63 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e1db18efaacd5738",
-    "type": "split",
+    "id": "d6137693325faea3",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "62c7189471f18cde",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0838551220b15045",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "76a279f1171a679b",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "e3e13379e20bd9fe",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "4151752ae08cb13d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "023f87b02def50c9",
-    "type": "split",
+    "id": "e497151e70776796",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "dc8eb93797724434",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ff808bd8a8ed94f3",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Дека лонгборда.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
+        "id": "a0cb94f995ae1e28",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Test1.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "8d64203bf7b5daeb",
   "lastOpenFiles": [
+    "Test1.md",
+    "Test.md",
     "Дека лонгборда.md"
   ]
 }
