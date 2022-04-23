@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "2248657f8c9b36a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d64203bf7b5daeb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Дека лонгборда.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e1db18efaacd5738",
+    "type": "split",
+    "children": [
+      {
+        "id": "62c7189471f18cde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0838551220b15045",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "76a279f1171a679b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "023f87b02def50c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc8eb93797724434",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff808bd8a8ed94f3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Дека лонгборда.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8d64203bf7b5daeb",
+  "lastOpenFiles": [
+    "Дека лонгборда.md"
+  ]
+}
